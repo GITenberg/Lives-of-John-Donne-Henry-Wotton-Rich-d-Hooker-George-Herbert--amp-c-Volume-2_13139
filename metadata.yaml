@@ -1,0 +1,51 @@
+_repo: Lives-of-John-Donne-Henry-Wotton-Rich-d-Hooker-George-Herbert--amp-c-Volume-2_13139
+_version: 0.1.0
+alternative_title: Lives of John Donne, Henry Wotton, Richard Hooker, George Herbert,
+  etc.
+contributor:
+  commentator:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walton, Izaak
+    aliases:
+    - Walton, I. (Izaak)
+    - Walton, Izaack
+    - Walton, Isaak
+    - Walton, Izaac
+    - Walton, Isaac
+    birthdate: 1593
+    deathdate: 1683
+    gutenberg_agent_id: '350'
+    url: http://www.gutenberg.org/2009/agents/350
+    wikipedia: http://en.wikipedia.org/wiki/Izaak_Walton
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Herbert, George, 1593-1633'
+- !lcsh 'Sanderson, Robert, 1587-1663'
+- !lcsh 'Hooker, Richard, 1553 or 4-1600'
+- !lcc 'DA'
+tableOfContents: The Life of Mr. Richard Hooker -- The Life of Mr. George Herbert,
+  Prebendary of Salisbury Cathedral -- The Life of Dr. Robert Sanderson, Late Lord
+  Bishop of Lincoln.
+title: Lives of John Donne, Henry Wotton, Rich'd Hooker, George Herbert, &c, Volume
+  2
+url: http://www.gutenberg.org/ebooks/13139
